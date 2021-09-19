@@ -37,10 +37,10 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sachanarpit" height="30" width="40" /></a>
+<a href="https://codepen.io/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sachanarpit" height="30" width="40" /></a>
 <a href="https://twitter.com/sachanarpit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachanarpit1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachanarpit" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:16470300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16470300" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/16470300/arpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:16470300" height="30" width="40" /></a>
 <a href="https://instagram.com/arpitsachanofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arpitsachanofficial" height="30" width="40" /></a>
 </p>
 <br />
