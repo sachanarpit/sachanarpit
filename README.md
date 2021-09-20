@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I think i am techy.**
 
+<hr />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sachanarpit" height="30" width="40" /></a>
