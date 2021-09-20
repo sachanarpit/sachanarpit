@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Arpit Sachan</h1>
-<h3 align="center">A learning Full Stack Web developer at Masai School</h3>
+<h3 align="center">Learning Full Stack Web developer at Masai School</h3>
 
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
