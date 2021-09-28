@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)
 
-- 💬 Ask me about **Javascript , Data structure , Algorithm , Node Js and MangoDB.**
+- 💬 Ask me about **Wordpress , Javascript , Data structure , Algorithm , Node Js , Express and MangoDB.**
 
 - 📫 How to reach me **contact@arpitsachan.com**
 
