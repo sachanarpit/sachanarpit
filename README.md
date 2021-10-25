@@ -8,13 +8,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sachanarpit](https://github.com/sachanarpit)
 
-- 📝 I regularly write articles on [https://hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)
+- 📝 I write articles on [https://hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)
 
 - 💬 Ask me about **Wordpress , Javascript , Data structure , Algorithm , Node Js , Express and MangoDB.**
 
 - 📫 How to reach me **contact@arpitsachan.com**
 
-- ⚡ Fun fact **I think i am techy.**
 
 <hr />
 
