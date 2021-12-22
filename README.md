@@ -20,7 +20,7 @@
 
 <h3 align="center" border="0">My Tech Stack</h3>
 
-<img align="center" src="https://i.imgur.com/aaRADiP.png"></img><br>
+
 
 <br>
 
