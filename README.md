@@ -18,7 +18,7 @@
 <hr />
 
 
-<h3 align="center" border="0">My Tech Stack</h3>
+<h2 align="center" border="0">My Tech Stack</h2>
 
 
 
