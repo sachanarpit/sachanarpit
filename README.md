@@ -17,6 +17,202 @@
 
 <hr />
 
+
+<h3 align="center" border="0">𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
+
+<img align="center" src="https://i.imgur.com/aaRADiP.png"></img><br>
+
+<br>
+
+<table align="center">
+
+<tbody>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗣𝗦𝗤𝗟</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝘂𝗯𝘆</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗮𝗶𝗹𝘀</span><br><br>
+
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/rails.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗲𝘀𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗠𝘆𝗦𝗤𝗟</span><br><br>
+
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗟𝗲𝘀𝘀</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/sachanarpit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/sachanarpit" height="30" width="40" /></a>
