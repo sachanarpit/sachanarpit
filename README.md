@@ -18,7 +18,7 @@
 <hr />
 
 
-<h3 align="center" border="0">𝙈𝙮 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h3>
+<h3 align="center" border="0">My Tech Stack</h3>
 
 <img align="center" src="https://i.imgur.com/aaRADiP.png"></img><br>
 
@@ -68,33 +68,33 @@
 
 <td width="25%" align="center">
 
-<span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br>
+<span>NodeJS</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗣𝗦𝗤𝗟</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>𝗥𝘂𝗯𝘆</span><br><br>
+<span>Express</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/ruby.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>𝗥𝗮𝗶𝗹𝘀</span><br><br>
+<span>Mongodb</span><br><br>
 
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/rails.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>NextJS</span><br><br>
+
+<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
 
 </td>
 
@@ -104,9 +104,9 @@
 
 <td width="25%" align="center">
 
-<span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br>
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
 </td>
 
@@ -172,41 +172,7 @@
 
 </tr>
 
-<tr valign="top">
 
-<td width="25%" align="center">
-
-<span>𝗟𝗲𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/less.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗡𝗲𝘁𝗹𝗶𝗳𝘆</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
-
-</td>
-
-</tr>
 
 </tbody>
 
