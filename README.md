@@ -1,7 +1,4 @@
-
-
 [![Arpit Sachan , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Arpit%20Sachan%20)](https://arpitsachan.com)
-
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
@@ -13,13 +10,9 @@
 
 - 📫 How to reach me **contact@arpitsachan.com**
 
-
 <hr />
 
-
 <h2 align="center" border="0">My Tech Stack</h2>
-
-
 
 <br>
 
@@ -91,9 +84,9 @@
 
 <td width="25%" align="center">
 
-<span>NextJS</span><br><br>
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
 
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/nextjs.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
 
 </td>
 
@@ -103,17 +96,17 @@
 
 <td width="25%" align="center">
 
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
 
 </td>
 
 <td width="25%" align="center">
 
-<span>𝗘𝘀𝗹𝗶𝗻𝘁</span><br><br>
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
 
-<img height="64px" src="https://cdn.svgporn.com/logos/eslint.svg">
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
 
 </td>
 
@@ -135,50 +128,11 @@
 
 </tr>
 
-<tr valign="top">
-
-<td width="25%" align="center">
-
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗝𝗲𝘀𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/jest.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗠𝘆𝗦𝗤𝗟</span><br><br>
-
-<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mysql.svg">
-
-</td>
-
-</tr>
-
-
-
 </tbody>
 
 </table>
 
 <hr>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
@@ -193,20 +147,12 @@
 <a href="https://github.com/sachanarpit/github-readme-activity-graph"><img alt="Arpit-Sachan-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachanarpit&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachanarpit&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
-
-
-
-
-
 
 <hr />
 <h3> Views and Followers </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachanarpit&label=Profile%20views&color=0e75b6&style=flat" alt="sachanarpit" /> </p>
 
-
 <p align=""> <a href="https://twitter.com/sachanarpit1" target="blank"><img src="https://img.shields.io/twitter/follow/sachanarpit1?logo=twitter&style=for-the-badge" alt="sachanarpit1" /></a> </p>
-
