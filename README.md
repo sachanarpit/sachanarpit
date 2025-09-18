@@ -1,158 +1,77 @@
-[![Arpit Sachan , I'm a Full Stack Web Developer.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Arpit%20Sachan%20)](https://arpitsachan.com)
+[![Arpit Sachan | Full Stack & Web3 Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20%7C%20Web3%20%7C%20Accessibility%20Engineer&title=Arpit%20Sachan)](https://arpitsachan.com)
 
-- 🌱 I’m a software developer who is spacialize in **Full Stack Web Development**.
+### 👋 Hey, I'm Arpit Sachan  
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachanarpit](https://github.com/sachanarpit)
+🚀 Full Stack Developer with **5+ years of experience** in building scalable web apps, blockchain-based platforms, and digital accessibility solutions.  
+I’ve worked across **Next.js, Node.js, MongoDB, TypeScript, Solidity, Wagmi, Subgraph, AWS**, and more — delivering **HIPAA-compliant, secure, and high-performance products**.  
 
-- 📝 I write articles on [https://hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)
+- 🌱 Currently exploring **Web3, Blockchain Gaming, and Web Accessibility**  
+- 👨‍💻 Check out my projects → [github.com/sachanarpit](https://github.com/sachanarpit)  
+- 📝 I share articles → [hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)  
+- 💬 Ask me about: **Next.js, Node.js, React, Blockchain (Polygon/Ethereum), Web Accessibility, MongoDB**  
+- 📫 Reach me at **contact@arpitsachan.com**  
 
-- 💬 Ask me about **ReactJS , Javascript , Data structure , Algorithm , Node Js , Express , MangoDB and Wordpress.**
+---
 
-- 📫 How to reach me **contact@arpitsachan.com**
-
-<hr />
-
-<h2 align="center" border="0">My Tech Stack</h2>
-
-<br>
+## 🛠️ Tech Stack  
 
 <table align="center">
-
 <tbody>
-
 <tr valign="top">
-
-<td width="25%" align="center">
-
-<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗖𝗦𝗦𝟯</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-
-</td>
-
+<td width="25%" align="center"><span>HTML5</span><br><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></td>
+<td width="25%" align="center"><span>CSS3</span><br><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></td>
+<td width="25%" align="center"><span>JavaScript</span><br><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
+<td width="25%" align="center"><span>TypeScript</span><br><img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></td>
 </tr>
-
 <tr valign="top">
-
-<td width="25%" align="center">
-
-<span>NodeJS</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Express</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>Mongodb</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
-
-</td>
-
+<td width="25%" align="center"><span>React / Next.js</span><br><img height="64px" src="https://cdn.svgporn.com/logos/react.svg"></td>
+<td width="25%" align="center"><span>Node.js</span><br><img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"></td>
+<td width="25%" align="center"><span>Express</span><br><img height="64px" src="https://cdn.svgporn.com/logos/express.svg"></td>
+<td width="25%" align="center"><span>MongoDB</span><br><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"></td>
 </tr>
-
 <tr valign="top">
-
-<td width="25%" align="center">
-
-<span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗚𝗶𝘁</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-
-</td>
-
-<td width="25%" align="center">
-
-<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
-
-<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-
-</td>
-
+<td width="25%" align="center"><span>TailwindCSS</span><br><img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></td>
+<td width="25%" align="center"><span>Solidity</span><br><img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg"></td>
+<td width="25%" align="center"><span>GraphQL / Subgraph</span><br><img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg"></td>
+<td width="25%" align="center"><span>AWS</span><br><img height="64px" src="https://cdn.svgporn.com/logos/amazon-web-services.svg"></td>
 </tr>
-
 </tbody>
-
 </table>
 
-<hr>
+---
 
-<h3 align="left">Connect with me:</h3>
+## 🔥 Featured Projects  
+
+- **Billions Quest** → Blockchain-based stock fantasy game (5,000+ users, Polygon & Skale)  
+- **Fundsconnect** → Startup funding platform (10,000+ investors, secure email tracker)  
+- **DreamCric** → Fantasy cricket platform (10,000+ users, +70% engagement)  
+- **Project Sunflower Lanyard** → Accessible NFC-enabled health tech solution for invisible disabilities  
+- **Chronic Pain India** → HIPAA-compliant secure medical document sharing with expiring AWS S3 links  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachanarpit&theme=dark&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&layout=compact&theme=dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect with me  
+
 <p align="center">
   <a href="https://linkedin.com/in/sachanarpit"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/sachanarpit1"><img src="https://img.shields.io/badge/twitter-1c9ceb?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://codepen.io/sachanarpit"><img src="https://img.shields.io/badge/codepen-1d1e22?style=for-the-badge&logo=codepen&logoColor=white"></a>
-  <a href="https://instagram.com/arpitsachanofficial"><img src="https://img.shields.io/badge/instagram-d11b59?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://twitter.com/sachanarpit1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://instagram.com/arpitsachanofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://codepen.io/sachanarpit"><img src="https://img.shields.io/badge/Codepen-1d1e22?style=for-the-badge&logo=codepen&logoColor=white"></a>
 </p>
-<hr />
 
-<h3> 📊 My Github Stats</h3>
-<a href="https://github.com/sachanarpit/github-readme-activity-graph"><img alt="Arpit-Sachan-Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sachanarpit&bg_color=0D1117&color=e8f4fd&line=f98c03&point=FFFFFF&hide_border=true" /></a>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachanarpit&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="sachanarpit" /></p>
-
-<hr />
-<h3> Views and Followers </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachanarpit&label=Profile%20views&color=0e75b6&style=flat" alt="sachanarpit" /> </p>
-
-<p align=""> <a href="https://twitter.com/sachanarpit1" target="blank"><img src="https://img.shields.io/twitter/follow/sachanarpit1?logo=twitter&style=for-the-badge" alt="sachanarpit1" /></a> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=sachanarpit&label=Profile%20views&color=0e75b6&style=flat" alt="sachanarpit" /></p>
+<p align="center"><a href="https://twitter.com/sachanarpit1"><img src="https://img.shields.io/twitter/follow/sachanarpit1?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a></p>
