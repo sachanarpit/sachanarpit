@@ -1,64 +1,89 @@
 [![Arpit Sachan | Full Stack & Web3 Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20%7C%20Web3%20%7C%20Accessibility%20Engineer&title=Arpit%20Sachan)](https://arpitsachan.com)
 
-### 👋 Hey, I'm Arpit Sachan  
+## 👋 Hey there!  
+I'm **Arpit Sachan**, a 🚀 Full Stack & Web3 Developer with **5+ years of experience**.  
+I love building **scalable products, blockchain-based platforms, and accessibility-driven apps** that make a difference.  
 
-🚀 Full Stack Developer with **5+ years of experience** in building scalable web apps, blockchain-based platforms, and digital accessibility solutions.  
-I’ve worked across **Next.js, Node.js, MongoDB, TypeScript, Solidity, Wagmi, Subgraph, AWS**, and more — delivering **HIPAA-compliant, secure, and high-performance products**.  
-
-- 🌱 Currently exploring **Web3, Blockchain Gaming, and Web Accessibility**  
-- 👨‍💻 Check out my projects → [github.com/sachanarpit](https://github.com/sachanarpit)  
-- 📝 I share articles → [hashnode.com/@arpitsachan](https://hashnode.com/@arpitsachan)  
-- 💬 Ask me about: **Next.js, Node.js, React, Blockchain (Polygon/Ethereum), Web Accessibility, MongoDB**  
-- 📫 Reach me at **contact@arpitsachan.com**  
+💡 *Code for me is not just logic, it's storytelling that solves real problems.*  
 
 ---
 
-## 🛠️ Tech Stack  
+## ✨ Quick Highlights  
+- 👨‍💻 Built **Web & Web3 products** from scratch → serving **10k+ users**  
+- ⚡ Boosted **organic traffic by 500%** with SEO + Accessibility  
+- 🔒 Engineered **HIPAA-compliant** secure file-sharing (AWS S3, presigned links)  
+- 🕹️ Launched **fantasy games on Blockchain** (Polygon, Skale)  
+- 📈 Improved **deployment efficiency by 20%** & reduced bugs by **95%**  
+- 🧑‍🤝‍🧑 Directed **3 full project lifecycles solo** → 90% on-time delivery  
+
+---
+
+## 🛠️ Tech Arsenal  
 
 <table align="center">
 <tbody>
 <tr valign="top">
-<td width="25%" align="center"><span>HTML5</span><br><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"></td>
-<td width="25%" align="center"><span>CSS3</span><br><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"></td>
-<td width="25%" align="center"><span>JavaScript</span><br><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
-<td width="25%" align="center"><span>TypeScript</span><br><img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/react.svg"><br><b>React / Next.js</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg"><br><b>TypeScript</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"><br><b>Node.js</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"><br><b>MongoDB</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg"><br><b>GraphQL / Subgraph</b></td>
 </tr>
 <tr valign="top">
-<td width="25%" align="center"><span>React / Next.js</span><br><img height="64px" src="https://cdn.svgporn.com/logos/react.svg"></td>
-<td width="25%" align="center"><span>Node.js</span><br><img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg"></td>
-<td width="25%" align="center"><span>Express</span><br><img height="64px" src="https://cdn.svgporn.com/logos/express.svg"></td>
-<td width="25%" align="center"><span>MongoDB</span><br><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"></td>
-</tr>
-<tr valign="top">
-<td width="25%" align="center"><span>TailwindCSS</span><br><img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"></td>
-<td width="25%" align="center"><span>Solidity</span><br><img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg"></td>
-<td width="25%" align="center"><span>GraphQL / Subgraph</span><br><img height="64px" src="https://cdn.svgporn.com/logos/graphql.svg"></td>
-<td width="25%" align="center"><span>AWS</span><br><img height="64px" src="https://cdn.svgporn.com/logos/amazon-web-services.svg"></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/ethereum.svg"><br><b>Solidity</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/wagmi.svg"><br><b>Wagmi / Ethers.js</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"><br><b>Tailwind</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/amazon-web-services.svg"><br><b>AWS</b></td>
+<td width="20%" align="center"><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"><br><b>Git / CI/CD</b></td>
 </tr>
 </tbody>
-</table>
+</table>  
 
 ---
 
-## 🔥 Featured Projects  
+## 🏆 Featured Projects  
 
-- **Billions Quest** → Blockchain-based stock fantasy game (5,000+ users, Polygon & Skale)  
-- **Fundsconnect** → Startup funding platform (10,000+ investors, secure email tracker)  
-- **DreamCric** → Fantasy cricket platform (10,000+ users, +70% engagement)  
-- **Project Sunflower Lanyard** → Accessible NFC-enabled health tech solution for invisible disabilities  
-- **Chronic Pain India** → HIPAA-compliant secure medical document sharing with expiring AWS S3 links  
+🎮 **Billions Quest** → Blockchain-based stock fantasy game  
+- 5,000+ users | Multi-chain (Polygon + Skale) | +30% retention  
+
+💰 **Fundsconnect** → Startup funding platform  
+- 10,000+ investors connected | 80% engagement boost  
+
+🏏 **DreamCric** → Fantasy cricket app  
+- 10,000+ users | +70% active users  
+
+🌻 **Project Sunflower Lanyard** → Health + Accessibility  
+- NFC-based invisible disability support | Secure AWS S3  
+
+🏥 **Chronic Pain India** → Secure healthcare sharing  
+- HIPAA-compliant | Zero leaks with expiring S3 links  
+
+---
+
+## 📜 Certifications  
+- 🟦 [Accessible Web Development](https://shorturl.at/haEH5)  
+- 🔍 [Search Engine Optimization](https://shorturl.at/zkWIR)  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&theme=dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachanarpit&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sachanarpit&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sachanarpit&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&layout=compact&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachanarpit&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+---
+
+## 🎯 Fun Zone  
+
+- 🌍 Currently: **Building Web3 projects + traveling as a Digital Nomad**  
+- 📖 Learning: **n8n automation + AI workflows**  
+- 🍳 When not coding: I’m either **backpacking or cooking experiments**  
+- 🎵 Vibe check: Coffee + LoFi + Code  
 
 ---
 
