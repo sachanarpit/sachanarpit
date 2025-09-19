@@ -52,11 +52,6 @@ I love building **scalable products, blockchain-based platforms, and accessibili
 🏏 **DreamCric** → Fantasy cricket app  
 - 10,000+ users | +70% active users  
 
-🌻 **Project Sunflower Lanyard** → Health + Accessibility  
-- NFC-based invisible disability support | Secure AWS S3  
-
-🏥 **Chronic Pain India** → Secure healthcare sharing  
-- HIPAA-compliant | Zero leaks with expiring S3 links  
 
 ---
 
