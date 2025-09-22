@@ -10,8 +10,7 @@ I love building **scalable products, blockchain-based platforms, and accessibili
 
 ## ✨ Quick Highlights  
 - 👨‍💻 Built **Web & Web3 products** from scratch → serving **10k+ users**  
-- ⚡ Boosted **organic traffic by 500%** with SEO + Accessibility  
-- 🔒 Engineered **HIPAA-compliant** secure file-sharing (AWS S3, presigned links)  
+- ⚡ Boosted **organic traffic by 500%** with SEO + Accessibility   
 - 🕹️ Launched **fantasy games on Blockchain** (Polygon, Skale)  
 - 📈 Improved **deployment efficiency by 20%** & reduced bugs by **95%**  
 - 🧑‍🤝‍🧑 Directed **3 full project lifecycles solo** → 90% on-time delivery  
